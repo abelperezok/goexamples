@@ -39,5 +39,7 @@ func main() {
 	fmt.Println(sedan1)
 
 	fmt.Println(truck1.colour)
+	fmt.Println(truck1.doors)
 	fmt.Println(sedan1.colour)
+	fmt.Println(sedan1.doors)
 }
