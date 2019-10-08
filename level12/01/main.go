@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/abelperezok/learn-golang/level12/01/cat"
-	"github.com/abelperezok/learn-golang/level12/01/dog"
+	"github.com/abelperezok/goexamples/level12/01/cat"
+	"github.com/abelperezok/goexamples/level12/01/dog"
 )
 
 func main() {
