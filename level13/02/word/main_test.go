@@ -15,7 +15,7 @@ func ExampleCount() {
 	s := "a word another"
 	c := Count(s)
 	fmt.Println(c)
-	// Outputs:
+	// Output:
 	// 3
 }
 
