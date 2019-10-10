@@ -1,5 +1,5 @@
 commands to run:
-on dog folder
+on word folder
 
 go test
 
